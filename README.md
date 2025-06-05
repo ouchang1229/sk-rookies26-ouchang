@@ -1,8 +1,8 @@
 # sk-rookies26-ouchang
 git, github 학습용 저장소
 
-#test 
-hello
+# test 
+hello!
 
-#test2  
-ouchang~
+# test2  
+ouchang~!
